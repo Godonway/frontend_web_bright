@@ -101,6 +101,7 @@ img{
  .nav__close{
   position:absolute;
   top:1.5rem;
+   z-index:100;
 /*   right:1.8rem; */
  }
  
